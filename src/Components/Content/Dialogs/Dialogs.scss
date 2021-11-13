@@ -1,0 +1,18 @@
+.dialogs {
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    padding: 20px;
+    &-items {
+        padding: 10px;
+        .dialog {
+            &.active {
+                color: gold;
+            }
+        }
+    }
+
+    .messages {
+        padding: 10px;
+    }
+}

@@ -1,0 +1,32 @@
+$colorWhite: #FFF;
+
+.content {
+    display: flex;
+    flex: 1 0 auto;
+    background-color: hotpink;
+    nav {
+        background-color: blueviolet;
+        padding: 20px;
+        li {
+            list-style: none;
+        }
+        a {
+            color: $colorWhite;
+            text-decoration: none;
+            &.active {
+                color: gold;
+            }
+        }
+        
+    }
+}
+.posts {
+    display: flex;
+    flex-wrap: wrap;
+    .post {
+        img {
+            width: 100px;
+        }
+    }
+    
+}
