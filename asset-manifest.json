@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/social-kamasutra/static/css/main.f2552a7c.chunk.css",
+    "main.js": "/social-kamasutra/static/js/main.64d089e9.chunk.js",
+    "main.js.map": "/social-kamasutra/static/js/main.64d089e9.chunk.js.map",
+    "runtime-main.js": "/social-kamasutra/static/js/runtime-main.fcbfb8ba.js",
+    "runtime-main.js.map": "/social-kamasutra/static/js/runtime-main.fcbfb8ba.js.map",
+    "static/js/2.1208eb7f.chunk.js": "/social-kamasutra/static/js/2.1208eb7f.chunk.js",
+    "static/js/2.1208eb7f.chunk.js.map": "/social-kamasutra/static/js/2.1208eb7f.chunk.js.map",
+    "index.html": "/social-kamasutra/index.html",
+    "static/css/main.f2552a7c.chunk.css.map": "/social-kamasutra/static/css/main.f2552a7c.chunk.css.map",
+    "static/js/2.1208eb7f.chunk.js.LICENSE.txt": "/social-kamasutra/static/js/2.1208eb7f.chunk.js.LICENSE.txt",
+    "static/media/ava.7d794afd.png": "/social-kamasutra/static/media/ava.7d794afd.png",
+    "static/media/loader.2238608e.svg": "/social-kamasutra/static/media/loader.2238608e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcbfb8ba.js",
+    "static/js/2.1208eb7f.chunk.js",
+    "static/css/main.f2552a7c.chunk.css",
+    "static/js/main.64d089e9.chunk.js"
+  ]
+}
