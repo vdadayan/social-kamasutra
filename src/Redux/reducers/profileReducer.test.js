@@ -5,7 +5,7 @@ let state = {
         {id: 1, message: 'How are you?', likesCount: 12},
         {id: 2, message: 'its my first post', likesCount: 11},
       ],
-}   
+}
 
 it('length of posts should be incremented', () => {
     let action = addPostActionCreator("it-kamasutra");
